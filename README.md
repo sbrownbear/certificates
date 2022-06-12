@@ -1,4 +1,4 @@
-## Cертификаты во время индивидуального обучения:
+## Сертификаты об окончании курсов:
 
 [Ментор Нколай Кротов QA Тестировщик](https://drive.google.com/file/d/1a8KnCNBOES3NKSCbPxQSjIqf-Bejw9GZ/view?usp=sharing)
 
