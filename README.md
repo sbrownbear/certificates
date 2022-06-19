@@ -6,4 +6,6 @@
 
 ["Поколение Python": курс для начинающих](https://drive.google.com/file/d/13rJKMInPyscOz81O5W4DFMTZOd2y-2ge/view)
 
+[JavaScript для начинающих](https://drive.google.com/file/d/1eG0u1qNesXC3apgN2do5wujELwi74dMM/view?usp=sharing)
+
 [EF SET Certificate](https://drive.google.com/file/d/1cp4odeXWVuEpEyjYBgnixHbc1hpBVpRm/view?usp=sharing)
